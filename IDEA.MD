@@ -1,3 +1,5 @@
+***Ignore me, I'm just the creators brainstorming notes***
+
 # Summary
 NutritionOCR will be a PWA and potentially mobile app you can you use to track things you've eaten. Ideally you point your camera at a product, and we use OCR to read the Nutrition Facts label and save them in IndexedDB. You can then see a sum for common facts like Calories, Sodium, Protein, per day.
 
