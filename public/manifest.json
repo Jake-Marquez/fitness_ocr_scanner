@@ -1,0 +1,10 @@
+{
+  "short_name": "NutritionOCR",
+  "name": "NutritionOCR - Track Nutrition with OCR",
+  "description": "Track your nutrition with OCR-powered label scanning",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#6200ee",
+  "background_color": "#ffffff",
+  "orientation": "portrait"
+}
